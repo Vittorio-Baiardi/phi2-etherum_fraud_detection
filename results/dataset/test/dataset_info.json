@@ -1,0 +1,76 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "FLAG": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Avg min between sent tnx": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Avg min between received tnx": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Time Diff between first and last (Mins)": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Sent tnx": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Received Tnx": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Number of Created Contracts": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "max value received ": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "avg val received": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "avg val sent": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "total Ether sent": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "total ether balance": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    " ERC20 total Ether received": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    " ERC20 total ether sent": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    " ERC20 total Ether sent contract": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    " ERC20 uniq sent addr": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    " ERC20 uniq rec token name": {
+      "dtype": "float64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
